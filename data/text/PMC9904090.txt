@@ -1,0 +1,15 @@
+Sample text for PMC9904090.txt
+
+This is a placeholder text file for the AI-TB diagnostic accuracy study PMC9904090.txt.
+
+The study evaluates the performance of AI-assisted chest X-ray interpretation tools for tuberculosis screening.
+
+Typical content would include:
+- Study methodology and design
+- Patient population and setting
+- AI tool evaluation metrics
+- Sensitivity and specificity results
+- 2x2 contingency table data (TP, FP, FN, TN)
+- Discussion of clinical implications
+
+For demonstration purposes, this sample contains mock data that would be replaced with actual extracted text from the PDF document.
