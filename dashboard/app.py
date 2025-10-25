@@ -3,7 +3,6 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
-import json
 
 # Set page config
 st.set_page_config(
@@ -77,7 +76,7 @@ def create_forest_plot_placeholder():
         mode='markers+text',
         name='Sensitivity',
         marker=dict(color='red', size=10),
-        text=[f'{s".3f"}' for s in sensitivity],
+        text=[f'{s:.3f}' for s in sensitivity],
         textposition='middle right',
         showlegend=True
     ))
@@ -89,7 +88,7 @@ def create_forest_plot_placeholder():
         mode='markers+text',
         name='Specificity',
         marker=dict(color='blue', size=10),
-        text=[f'{s".3f"}' for s in specificity],
+        text=[f'{s:.3f}' for s in specificity],
         textposition='middle left',
         showlegend=True
     ))
