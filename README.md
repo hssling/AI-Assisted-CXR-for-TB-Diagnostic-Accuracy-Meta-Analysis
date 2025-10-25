@@ -265,7 +265,7 @@ This work is licensed under the MIT License - see the [LICENSE](LICENSE) file fo
 **Corresponding Author:**
 Dr. Siddalingaiah H S
 Professor, Community Medicine
-Sri Siddhartha Institute of Medical Sciences and Research Hospital (SIMSRH)
+Shridevi Institute of Medical Sciences and Research Hospital (SIMSRH)
 Tumkur, Karnataka, India
 Email: hssling@yahoo.com
 Phone: +91-8941087719

@@ -176,7 +176,7 @@ netstat -ano | findstr :8501
 **Corresponding Author:**
 Dr. Siddalingaiah H S
 Professor, Community Medicine
-Sri Siddhartha Institute of Medical Sciences and Research Hospital (SIMSRH)
+Shridevi Institute of Medical Sciences and Research Hospital (SIMSRH)
 Tumkur, Karnataka, India
 Email: hssling@yahoo.com
 Phone: +91-8941087719

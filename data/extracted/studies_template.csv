@@ -1,6 +1,6 @@
 study_id,year,country,setting,n_total,TP,FP,FN,TN
-PMC10246158,,,,,,,,
-PMC10348531,,,,,,,,
-PMC11540982,,,,,,,,
-PMC6802077,2077,,,,,,,
-PMC9904090,,,,,,,,
+PMC10246158,2024,Peru,Hospitalized adults,387,59,219,6,103
+PMC10348531,2023,Multi-country,Migrants screening,1769,480,562,53,674
+PMC11540982,2024,The Gambia,Children <15y,724,11,7,47,659
+PMC6802077,2019,Nepal & Cameroon,Symptomatic outpatients,1196,103,223,6,864
+PMC9904090,2023,Brazil,Prison screening,2075,233,291,26,1525
